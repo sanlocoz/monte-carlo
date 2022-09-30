@@ -3,14 +3,18 @@
 > *"Creativity is the ability to introduce order into the randomness of nature"* - Eric Hoffer
 
 ## What this program is about?
-This program is about simulation using monte carlo algorithm in order to estimate $\pi$ value. <hr width=0>
+This program is about simulation using monte carlo algorithm in order to estimate $\pi$ value. Monte carlo is an algorithm to simulate stochastic events based on certain distribution and for this purpose it is just simple uniform distribution. <br>
+
 <img src="img/preview.JPG" alt="monte-carlo-preview" width="400"/>
 
+*Finished state of the program*
+
+The idea behind this program is to simulate randomized dot marking in each timestep in a space of a circle that is enclosed within a square. We count and separate the dots as follows:
+- **Blue dots**: the dots that lie within the circle.
+- **Red dots**: the dots that lie outside the circle and within the square.
 
 
 
-Monte carlo is an algorithm to simulate stochastic events based on certain distribution and for this purpose it is just simple uniform distribution.
-Monte Carlo stochastic algorithm for pi estimation</br>
 
 ## What I learned during the process?
 
