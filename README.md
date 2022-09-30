@@ -31,7 +31,7 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 ## What to do next?
 This is the project as part of learning process using Java programming language. The program is not finished yet, because there is 'freeze' effects due to the waiting time for the finished state to be displayed. In the next version I will add `event listeners` to better visualize the process of the simulation.
 
-The simulation is relying on `java.util.Random` library, using the pseudo-random number generator Java leaves the implementation of generating stoochastic events with Java precoded library (that approximately equal distribution). In the next program I will try to build the generator using some custom probability density function to simulate other sthocastic events.
+The simulation is relying on `java.util.Random` library. It leaves the implementation of generating the events. In the next program I will try to build the generator using some custom probability density function to simulate other sthocastic events.
 
 ## Resources
 
