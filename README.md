@@ -13,7 +13,14 @@ The idea behind this program is to simulate randomized dot marking in each times
 - **Blue dots**: the dots that lie within the circle.
 - **Red dots**: the dots that lie outside the circle and within the square.
 
-
+We can approximate the area of circle area and square area as follows: <br>
+`circle_area = number_of_blue_dots`<br>
+`square_area = number_of_blue_dots + number_of_red_dots`
+I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+`
+\frac{n!}{k!(n-k)!}
+`
+<span style="font-size:larger;">word</span>
 
 
 ## What things that I learned during the process?
