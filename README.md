@@ -3,8 +3,8 @@
 > *"Creativity is the ability to introduce order into the randomness of nature"* - Eric Hoffer
 
 ## What this program is about?
-This program is about simulation using monte carlo algorithm in order to estimate $\pi$ value. <hr>
-<img src="img/preview.JPG" alt="monte-carlo-preview" width="200"/>
+This program is about simulation using monte carlo algorithm in order to estimate $\pi$ value. <hr width=0>
+<img src="img/preview.JPG" alt="monte-carlo-preview" width="400"/>
 
 
 
