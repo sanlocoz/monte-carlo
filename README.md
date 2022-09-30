@@ -22,8 +22,7 @@ The idea behind this program is to simulate randomized dot marking in each times
 
 
 ## What to do next?
-This is an on-going projects using Java, in the next version I will ad time events listener to better visualize monte-carlo simulation for pi estimation.
-
+This is the project as part of learning process using Java programming language. The program is not finished yet, because there is 'freeze' effects due to the waiting time for the finished state to be displayed. In the next version I will add events listener to better visualize the process of the simulation.
 
 ## Resources
 
