@@ -13,7 +13,7 @@ The idea behind this program is to simulate randomized dot marking in each times
 - **Blue dots**: the dots that lie within the circle.
 - **Red dots**: the dots that lie outside the circle and within the square.
 
-The ratio of circle and square area will be approximated better to its true value as the number of dots gets larger. Because of the same probability of dots falling in each pixel in the square, we can conclude that portion of the dots in each area correlates linearly with the area of circle and square, as follows: <br> <br>
+The ratio of circle and square area will be approximated better to its true value as the number of dots gets larger. Because the same probability of dots falling in each pixel in the square, we can conclude that portion of the dots in each area correlates linearly with the area of circle and square, as follows: <br> <br>
 `circle_area = number_of_blue_dots`<br>
 `square_area = number_of_blue_dots + number_of_red_dots`
 I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
