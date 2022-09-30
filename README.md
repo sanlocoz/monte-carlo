@@ -2,7 +2,7 @@
 
 > *"Creativity is the ability to introduce order into the randomness of nature"* - Eric Hoffer
 
-## What this program is about?
+## What is this program about?
 This program is about simulation using monte carlo algorithm in order to estimate $\pi$ value. Monte carlo is an algorithm to simulate stochastic events based on certain distribution and for this purpose it is just simple uniform distribution. <br>
 
 <img src="img/preview.JPG" alt="monte-carlo-preview" width="400"/>
@@ -16,7 +16,7 @@ The idea behind this program is to simulate randomized dot marking in each times
 
 
 
-## What I learned during the process?
+## What things that I learned during the process?
 
 
 
