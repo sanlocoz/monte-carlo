@@ -15,6 +15,7 @@ The idea behind this program is to simulate randomized dot marking in each times
 
 The ratio of circle and square area will be approximated better to its true value as the number of dots gets larger. Because the same probability of dots falling in each pixel in the square, we can conclude that portion of the dots in each area correlates linearly with the area of circle and square, as follows: <br> <br>
 `circle_area = number_of_blue_dots`<br>
+
 `square_area = number_of_blue_dots + number_of_red_dots`
 I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 `
@@ -31,7 +32,7 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 ## What to do next?
 This is the project as part of learning process using Java programming language. The program is not finished yet, because there is 'freeze' effects due to the waiting time for the finished state to be displayed. In the next version I will add `event listeners` to better visualize the process of the simulation.
 
-The simulation is relying on `java.util.Random` library. It leaves the implementation of generating the events. In the next program I will try to build the generator using some custom probability density function to simulate other sthocastic events.
+The simulation is relying on `java.util.Random` library. It leaves the implementation of generating the events. In the next program I will try to build the generator using some custom probability density function to simulate other stochastic events.
 
 ## Resources
 
