@@ -5,6 +5,7 @@
 ## What this program is about?
 This program is about simulation using monte carlo algorithm in order to estimate $\pi$ value.
 
+![Neuralib](img/preview.jpg)
 
 
 
