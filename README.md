@@ -15,9 +15,9 @@ The idea behind this program is to simulate randomized dot marking in each times
 
 The ratio of circle and square area will be approximated better to its true value as the number of dots gets larger. Because the same probability of dots falling in each pixel in the square, we can conclude that portion of the dots in each area correlates linearly with the area of circle and square, as follows: <br> <br>
 
-$$circle \textunderscore area = number \textunderscore of \textunderscore blue \textunderscore dots$$
+$$\large circle \textunderscore area = number \textunderscore of \textunderscore blue \textunderscore dots$$
 
-$$square \textunderscore area = number \textunderscore of \textunderscore blue \textunderscore dots + number \textunderscore of \textunderscore red \textunderscore dots$$
+$$\large square \textunderscore area = number \textunderscore of \textunderscore blue \textunderscore dots + number \textunderscore of \textunderscore red \textunderscore dots$$
 
 If we take the ratio of circle and square area:
 
