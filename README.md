@@ -53,7 +53,8 @@ $$\phant
 -->
 
 ## What things that I learned during the process?
-- Creating graphical user interface using `java.util.swing.Frame` library.
+- Creating graphical user interface using `javax.swing.JFrame` library.
+- Creating xxx
 
 ## What to do next?
 This is the project as part of learning process using Java programming language. The program is not finished yet, because there is 'freeze' effects due to the waiting time for the finished state to be displayed. In the next version I will add `event listeners` to better visualize the process of the simulation.
