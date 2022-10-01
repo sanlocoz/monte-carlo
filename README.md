@@ -62,4 +62,4 @@ This is the project as part of learning process using Java programming language.
 The simulation is relying on `java.util.Random` library. It leaves the implementation of generating the events. In the next program I will try to build the generator using some custom probability density function to simulate other stochastic events.
 
 ## Resources
-Horstmann, C., 2018. Big Java. New York: Wiley.
+Horstmann, C., 2018. *Big Java*. New York: Wiley.
