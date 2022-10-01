@@ -14,9 +14,10 @@ The idea behind this program is to simulate randomized dot marking in each times
 - **Red dots**: the dots that lie outside the circle and within the square.
 
 The ratio of circle and square area will be approximated better to its true value as the number of dots gets larger. Because the same probability of dots falling in each pixel in the square, we can conclude that portion of the dots in each area correlates linearly with the area of circle and square, as follows: <br> <br>
-`circle_area = number_of_blue_dots`<br>
 
-`square_area = number_of_blue_dots + number_of_red_dots`
+$$circle \textunderscore area = number \textunderscore of \textunderscore blue \textunderscore dots$$
+
+$$square \textunderscore area = number \textunderscore of \textunderscore blue \textunderscore dots + number \textunderscore of \textunderscore red \textunderscore dots$$
 
 If we take the ratio of circle and square area:
 
@@ -28,10 +29,16 @@ $$\begin{eqnarray}
 where:
 
 $$\begin{eqnarray}
-\large r = radius \enspace of \enspace the \enspace circle\\
+\large r &=& radius \enspace of \enspace the \enspace circle\\
+\large 2 \times r &=& side \enspace of \enspace the \enspace square\\
 \end{eqnarray}$$
 
+Therefore to get $\pi$ we can use this formula:
 
+$$\begin{eqnarray}
+\large\pi &=& \frac{4\times\ circle\textunderscore area}{square\textunderscore area}\\
+\large &=& \frac{4\times\ circle\textunderscore area}{square\textunderscore area}\\
+\end{eqnarray}$$
 
 <!--
 $$\begin{array}{ccc}
