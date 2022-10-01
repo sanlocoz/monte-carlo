@@ -37,7 +37,7 @@ Therefore to get $\pi$ we can use this formula:
 
 $$\begin{eqnarray}
 \large\pi &=& \frac{4\times\ circle\textunderscore area}{square\textunderscore area}\\
-\large &=& \frac{4\times\ circle\textunderscore area}{square\textunderscore area}\\
+\large &=& \frac{4\times\ number \textunderscore of \textunderscore blue \textunderscore dots}{number \textunderscore of \textunderscore blue \textunderscore dots + number \textunderscore of \textunderscore red \textunderscore dots}\\
 \end{eqnarray}$$
 
 <!--
