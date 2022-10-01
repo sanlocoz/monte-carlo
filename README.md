@@ -17,17 +17,35 @@ The ratio of circle and square area will be approximated better to its true valu
 `circle_area = number_of_blue_dots`<br>
 
 `square_area = number_of_blue_dots + number_of_red_dots`
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
-`
-\frac{n!}{k!(n-k)!}
-`
-<span style="font-size:larger;">word</span>
 
+If we take the ratio of circle and square area:
+
+$$\begin{eqnarray}
+\large\frac{circle\textunderscore area}{square\textunderscore area} &=& \frac{\pi r^2}{(2r)^2}\\
+\large &=& \frac{\pi r^2}{4r^2} &=& \frac{\pi}{4}\\
+\end{eqnarray}$$
+
+where:
+
+$$\begin{eqnarray}
+\large r = radius \enspace of \enspace the \enspace circle\\
+\end{eqnarray}$$
+
+
+
+<!--
+$$\begin{array}{ccc}
+x_{11} & x_{12} & x_{13}\\
+x_{21} & x_{22} & x_{23}
+\end{array}$$
+$$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$$
+$$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$$
+\[\begin{align*}2x -12 &= 4\\@lhs(sol)@ &= @rhs(sol)@ \end{align*}\]
+
+$$\phant
+-->
 
 ## What things that I learned during the process?
-
-
-
 
 ## What to do next?
 This is the project as part of learning process using Java programming language. The program is not finished yet, because there is 'freeze' effects due to the waiting time for the finished state to be displayed. In the next version I will add `event listeners` to better visualize the process of the simulation.
@@ -35,4 +53,8 @@ This is the project as part of learning process using Java programming language.
 The simulation is relying on `java.util.Random` library. It leaves the implementation of generating the events. In the next program I will try to build the generator using some custom probability density function to simulate other stochastic events.
 
 ## Resources
+$$\begin{eqnarray}
+F &=& ma\\
+V &=& IR
+\end{eqnarray}$$
 
